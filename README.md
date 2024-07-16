@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HAJA-M
 - 👀 I’m interested in STEM and sport
 - 🌱 I’m currently learning webdesign and Artificial intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact me on : herijaona.pro@gmail.com or call me on my whatsapp number: +261 34 98 093 23
 
 <!---
